@@ -109,7 +109,7 @@
             },
             {
               "name": "FUNCTIONS_EXTENSION_VERSION",
-              "value": "~3"
+              "value": "~4"
             },
             {
               "name": "FUNCTIONS_V2_COMPATIBILITY_MODE",
@@ -129,7 +129,7 @@
             },
             {
               "name": "WEBSITE_NODE_DEFAULT_VERSION",
-              "value": "~12"
+              "value": "~16 LTS"
             }, 
             {
               "name": "WORKFLOWS_SUBSCRIPTION_ID", 
